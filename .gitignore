@@ -1,0 +1,44 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+.vs/
+
+# CMake local / generated files
+CMakeUserPresets.json
+compile_commands.json
+
+# Compiled binaries, objects, and debug symbols
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.dSYM/
+
+# Visual Studio / MSBuild files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+
+# Editor & OS files
+.idea/
+.cache/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
